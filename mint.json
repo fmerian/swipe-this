@@ -34,7 +34,7 @@
     {
       "name": "Community",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://marketingto.dev"
     },
     {
       "name": "Blog",
@@ -78,8 +78,7 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/fmerian",
+    "linkedin": "https://www.linkedin.com/in/fmerian"
   }
 }
