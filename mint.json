@@ -39,15 +39,13 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "README",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "introduction"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Examples",
       "pages": [
         "essentials/markdown",
         "essentials/code",
