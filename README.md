@@ -4,13 +4,19 @@ This repository is my personal collection of marketing, growth, and UX ideas.
 
 It includes pages, onboarding flows, docs, ads, and product updates from awesome dev tools like Resend, Stripe, Vercel, and more. So, if I'm struggling with creative work, I can refer to it for inspiration.
 
-**Do you have any suggestions? Awesome! Feel free to [create an issue](https://github.com/fmerian/swipe-this/issues) or [open a Pull Request](https://github.com/fmerian/swipe-this/pulls).**
+**See it live [here ↗︎](https://marketingto.dev/swipe)**
+
+Do you have any suggestions? Awesome! Feel free to [create an issue](https://github.com/fmerian/swipe-this/issues) or [open a pull request](https://github.com/fmerian/swipe-this/pulls). You can ping me [@fmerian on 𝕏](https://x.com/fmerian) too.
+
+```diff
++ watch this repo to get notifications about new examples
+```
 
 ## stack
 
 This collection is generated using [mintlify/starter](https://git.new/docs).
 
-### Development
+### development
 
 Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview changes locally. To install it, use the following command:
 
