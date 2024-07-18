@@ -39,20 +39,16 @@
   ],
   "navigation": [
     {
-      "group": "README",
+      "group": "readme",
       "pages": [
         "introduction"
       ]
     },
     {
-      "group": "Examples",
+      "group": "examples",
       "pages": [
-        "examples/markdown",
-        "examples/code",
-        "examples/images",
-        "examples/settings",
-        "examples/navigation",
-        "examples/reusable-snippets"
+        "examples/pages",
+        "examples/posts",
       ]
     }
   ],
