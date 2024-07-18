@@ -47,12 +47,12 @@
     {
       "group": "Examples",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "examples/markdown",
+        "examples/code",
+        "examples/images",
+        "examples/settings",
+        "examples/navigation",
+        "examples/reusable-snippets"
       ]
     }
   ],
