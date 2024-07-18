@@ -1,32 +1,46 @@
-# Mintlify Starter Kit
+# swipe-this
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+This repository is my personal collection of marketing, growth, and UX ideas.
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+It includes pages, onboarding flows, docs, ads, and product updates from awesome dev tools like Resend, Stripe, Vercel, and more. So, if I'm struggling with creative work, I can refer to it for inspiration.
+
+**Do you have any suggestions? Awesome! Feel free to [create an issue](https://github.com/fmerian/swipe-this/issues) or [open a Pull Request](https://github.com/fmerian/swipe-this/pulls).**
+
+## stack
+
+This collection is generated using [mintlify/starter](https://git.new/docs).
 
 ### Development
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview changes locally. To install it, use the following command:
 
 ```
 npm i -g mintlify
 ```
 
-Run the following command at the root of your documentation (where mint.json is)
+Run the following command at the root (where mint.json is)
 
 ```
 mintlify dev
 ```
 
-### Publishing Changes
+### publishing changes
 
-Install our Github App to autopropagate changes from youre repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
+Install the Mintlify Github App to autopropagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the `main` branch. Find the link to install on your dashboard. 
 
-#### Troubleshooting
+**troubleshooting**
 
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `mint.json`
+- `mintlify dev` isn't running? Run `mintlify install` — it will re-install dependencies.
+- Page loads as a 404? Make sure you're running in the folder with `mint.json`.
+
+## about
+
+This repository is maintained by [@fmerian](https://read.cv/fmerian).
+
+```diff
++ currently available for work: hello at fmerian.com
+```
+
+**Follow me [@fmerian on 𝕏](https://x.com/fmerian) for more examples.**
+
+Enjoy!
