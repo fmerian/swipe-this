@@ -26,7 +26,7 @@ mintlify dev
 
 ### publishing changes
 
-Install the Mintlify Github App to autopropagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the `main` branch. Find the link to install on your dashboard. 
+Install the Mintlify Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the `main` branch. Find the link to install on your dashboard. 
 
 **troubleshooting**
 
