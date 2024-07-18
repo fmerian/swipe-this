@@ -48,7 +48,7 @@
       "group": "examples",
       "pages": [
         "examples/pages",
-        "examples/posts",
+        "examples/posts"
       ]
     }
   ],
