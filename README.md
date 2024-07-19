@@ -4,7 +4,7 @@ This repository is my personal collection of marketing, growth, and UX ideas.
 
 It includes pages, onboarding flows, docs, ads, and product updates from awesome dev tools like Resend, Stripe, Vercel, and more. So, if I'm struggling with creative work, I can refer to it for inspiration.
 
-**See it live [here ↗︎](https://marketingto.dev/swipe)**
+**See it live [here ↗︎](https://mktto.dev/swipe)**
 
 Do you have any suggestions? Awesome! Feel free to [create an issue](https://github.com/fmerian/swipe-this/issues) or [open a pull request](https://github.com/fmerian/swipe-this/pulls). You can ping me [@fmerian on 𝕏](https://x.com/fmerian) too.
 
