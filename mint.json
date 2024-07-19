@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Developer Marketing Examples",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -30,11 +30,6 @@
       "name": "Community",
       "icon": "slack",
       "url": "https://marketingto.dev"
-    },
-    {
-      "name": "Thoughts",
-      "icon": "newspaper",
-      "url": "https://read.cv/fmerian/writing"
     }
   ],
   "navigation": [
