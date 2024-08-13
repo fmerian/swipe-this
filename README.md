@@ -43,9 +43,10 @@ Install the Mintlify Github App to auto propagate changes from your repo to your
 
 This repository is maintained by [@fmerian](https://read.cv/fmerian).
 
+- Marketing at [Mintlify](https://mintlify.com);
 - Ex-founder;
-- Co-runs [marketingto.dev](https://marketingto.dev);
-- Previously worked at [Clerk](https://clerk.com).
+- Previously worked at: ([Clerk](https://clerk.com), [Specify](https://specifyapp.com));
+- Co-runs [marketingto.dev](https://marketingto.dev).
 
 ```diff
 + currently available for work: hello at fmerian.com
