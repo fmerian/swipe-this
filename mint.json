@@ -18,12 +18,15 @@
     "dark": "#0D9373"
   },
   
-  "topbarLinks": [
-    {
+  "modeToggle": {
+    "default": "dark",
+    "isHidden": true
+  },
+
+  "topbarLinks": {
       "name": "About",
       "url": "https://read.cv/fmerian"
-    }
-  ],
+    },
   
   "topbarCtaButton": {
     "name": "Book a 1:1 session",
