@@ -23,10 +23,12 @@
     "isHidden": true
   },
 
-  "topbarLinks": {
+  "topbarLinks": [
+    {
       "name": "About",
       "url": "https://read.cv/fmerian"
-    },
+    }
+  ],
   
   "topbarCtaButton": {
     "name": "Book a 1:1 session",
