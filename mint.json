@@ -1,5 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
+  
   "name": "Developer Marketing Examples",
   
   "theme": "quill",
@@ -10,28 +11,29 @@
   },
   
   "favicon": "/favicon.svg",
+  
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
     "dark": "#0D9373",
-    "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
-    }
   },
+
   "modeToggle": {
     "default": "dark"
   }
+  
   "topbarLinks": [
     {
       "name": "About",
       "url": "https://read.cv/fmerian"
     }
   ],
+  
   "topbarCtaButton": {
     "name": "Book a 1:1 session",
     "url": "https://adplist.org/mentors/florent-merian"
   },
+  
   "anchors": [
     {
       "name": "Community",
@@ -39,6 +41,7 @@
       "url": "https://marketingto.dev"
     }
   ],
+  
   "navigation": [
     {
       "group": "readme",
@@ -54,6 +57,7 @@
       ]
     }
   ],
+  
   "footerSocials": {
     "twitter": "https://x.com/fmerian",
     "linkedin": "https://linkedin.com/in/fmerian"
