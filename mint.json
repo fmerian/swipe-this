@@ -34,14 +34,6 @@
     "url": "https://adplist.org/mentors/florent-merian"
   },
   
-  "anchors": [
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://marketingto.dev"
-    }
-  ],
-  
   "navigation": [
     {
       "group": "readme",
