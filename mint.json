@@ -1,8 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   
-  "name": "Developer Marketing Examples",
-
   "theme": "quill",
   
   "favicon": "/favicon.svg",
@@ -40,7 +38,7 @@
       "group": "examples",
       "pages": [
         "examples/pages",
-        "examples/posts"
+        "examples/content"
       ]
     }
   ],
