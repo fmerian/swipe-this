@@ -19,8 +19,19 @@
   },
   
   "modeToggle": {
-    "default": "dark",
-    "isHidden": true
+    "default": "dark"
+  },
+
+  "topbarLinks": [
+    {
+      "name": "About",
+      "url": "https://read.cv/fmerian"
+    }
+  ],
+  
+  "topbarCtaButton": {
+    "name": "Book a 1:1 session",
+    "url": "https://adplist.org/mentors/florent-merian"
   },
   
   "anchors": [
