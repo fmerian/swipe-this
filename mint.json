@@ -1,10 +1,7 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Developer Marketing Examples",
-  "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
-  },
+  "theme": "quill",
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
@@ -15,6 +12,9 @@
       "to": "#07C983"
     }
   },
+  "modeToggle": {
+    "default": "dark"
+  }
   "topbarLinks": [
     {
       "name": "About",
