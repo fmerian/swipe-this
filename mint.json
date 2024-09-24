@@ -9,10 +9,10 @@
     "prompt": "Browse examples..."
   },
 
-  "font": {
+  /* "font": {
     "headings": "Libre Franklin",
     "body": "Libre Baskerville"
-  },
+  }, */
 
   "logo": {
     "dark": "/logo/dark.svg",
