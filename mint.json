@@ -9,11 +9,6 @@
     "prompt": "Browse examples..."
   },
 
-  /* "font": {
-    "headings": "Libre Franklin",
-    "body": "Libre Baskerville"
-  }, */
-
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg",
