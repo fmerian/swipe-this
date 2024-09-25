@@ -5,6 +5,10 @@
 
   "theme": "quill",
 
+  "font": {
+    "family": "Libre Baskerville"
+    },
+
   "search": {
     "prompt": "Browse examples..."
   },
