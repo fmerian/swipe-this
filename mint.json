@@ -6,9 +6,11 @@
   "theme": "quill",
 
   "font": {
-    "family": {
-      "headings": "Libre Franklin",
-      "body": "Libre Baskerville"
+    "headings": {
+      "family": "Libre Franklin"
+    },
+    "body": {
+      "family": "Libre Baskerville"
     }
   },
 
