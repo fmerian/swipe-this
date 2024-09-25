@@ -7,10 +7,10 @@
 
   "font": {
     "headings": {
-      "family": "Libre Franklin"
+      "family": "Source Code Pro"
     },
     "body": {
-      "family": "Libre Baskerville"
+      "family": "Inter"
     }
   },
 
@@ -64,6 +64,8 @@
     }
   ],
   
+  "thumbsRating": "true",
+
   "footerSocials": {
     "twitter": "https://x.com/fmerian",
     "linkedin": "https://linkedin.com/in/fmerian"
