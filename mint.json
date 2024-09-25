@@ -6,8 +6,11 @@
   "theme": "quill",
 
   "font": {
-    "family": "Libre Baskerville"
-    },
+    "family": {
+      "headings": "Libre Franklin",
+      "body": "Libre Baskerville"
+    }
+  },
 
   "search": {
     "prompt": "Browse examples..."
