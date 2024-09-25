@@ -3,7 +3,9 @@
 
   "name": "Developer Marketing Examples",
 
-  "theme": "quill",
+  "background": {
+    "style": "windows"
+  }
 
   "search": {
     "prompt": "Browse examples..."
