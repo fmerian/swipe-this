@@ -3,9 +3,7 @@
 
   "name": "Developer Marketing Examples",
 
-  "background": {
-    "style": "gradient"
-  },
+  "theme": "quill",
 
   "search": {
     "prompt": "Browse examples..."
