@@ -7,7 +7,8 @@
 
   "font": {
     "headings": {
-      "family": "Inter"
+      "family": "Fira Code",
+      "weight": 400
     },
     "body": {
       "family": "Inter"
