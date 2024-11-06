@@ -20,8 +20,8 @@
   },
 
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg",
+    "dark": "/logo/river-docs.svg",
+    "light": "/logo/river-docs.svg",
     "href": "https://git.new/docs"
   },
   
