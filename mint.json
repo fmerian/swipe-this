@@ -7,7 +7,7 @@
 
   "font": {
     "headings": {
-      "family": "Fira Code",
+      "family": "JetBrains Mono",
       "weight": 400
     },
     "body": {
